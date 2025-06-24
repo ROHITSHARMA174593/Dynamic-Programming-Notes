@@ -35,5 +35,5 @@
                     >> here is our both arrays and capacity can be 0  because array size in in the starting is n and after that when we are start Recursion than our condition is like func(arr, n:ind-1) and what is n arr.length-1 
                     Base Condition is : 
                             if(n == 0 || W == 0):
-                                    
-*/fxcv
+
+*/
