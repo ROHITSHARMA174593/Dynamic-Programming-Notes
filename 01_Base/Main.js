@@ -17,8 +17,8 @@ todo    ===  Jaise yaha per only 1 option hi choose karna hota hai vha per hum y
 !           === Never Starts with Top-Down Approach first write down the Recursive Code
 ?           Recursive ---------> Memorize ------------> Top-Down(Matrix Table)
 ?           In Recursive we need 2 Approaches (what you can do)
-?                 /               \
-?           Memorize            Top-Down(Matrix)
+?                 /                       \
+?           Memoization            Top-Down(Matrix)
 ?       (only in 2 line)
 
 
